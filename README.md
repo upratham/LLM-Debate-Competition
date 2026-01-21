@@ -53,7 +53,7 @@ A lightweight **multi-agent debate simulator** built in Python. It runs a “deb
 
 ```bash
 git clone https://github.com/upratham/LLM-Debate-Competition.git
-cd LLM-Debate-competition
+cd LLM-Debate-Competition
 ```
 
 ### 2) Create & activate a virtual environment
